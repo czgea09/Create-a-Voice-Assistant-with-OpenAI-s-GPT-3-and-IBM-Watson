@@ -16,7 +16,17 @@ Name : Arifian Saputra
 
 # Tech Stack
 
+- JavaScript
+
 - Python
+ 
+- Dockerfile
+
+- HTML
+ 
+- CSS
+
+- Shell
 
 # Credits
 
